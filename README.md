@@ -1,4 +1,4 @@
-# Hi there, Jane here!
+# Hi there, Jane here!༄˖°.
 
 Welcome to my GitHub profile! I'm actively learning and exploring web development and modern web technologies. 🚀
 
@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm actively learning and exploring web developmen
 - **Learning Journey**: Focused on strengthening software engineering principles, clean code, and automated testing.
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🖳 Tech Stack & Tools
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
