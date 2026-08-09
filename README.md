@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm actively learning and exploring web development and modern web technologies. 🚀
 
 ### About Me
-- **Learning Journey**: Focused on strengthening software engineering principles, clean code, and automated testing.
+- **Learning Journey**: Focused on strengthening web development principles, clean code, and automated testing.
 ---
 
 ### 🖳 Tech Stack & Tools
