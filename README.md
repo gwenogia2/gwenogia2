@@ -1,9 +1,9 @@
 # Hi there, Jane here!༄˖°.
 
-Welcome to my GitHub profile! I'm actively learning and exploring web development and modern web technologies. 🚀
+Welcome to my GitHub profile! I'm actively learning and exploring web development and modern web technologies. 
 
 ### About Me
-- **Learning Journey**: Focused on strengthening web development principles, clean code, and automated testing.
+- **Learning Journey**: Strengthening core principles of software engineering, backend logic, and clean architecture.
 ---
 
 ### 🖳 Tech Stack & Tools
@@ -19,7 +19,8 @@ Welcome to my GitHub profile! I'm actively learning and exploring web developmen
 ---
 
 ### Recent Playgrounds & Experiments
-- **`my-wallet-testing`**: A lightweight PHP/Laravel practice focused on pure business logic and unit testing (Pest/PHPUnit).
-- 📌 *More experiments builds coming soon!*
+- **`scheduler-ai`**: An AI-assisted task and schedule management application built with Laravel.
+- **`my-wallet-testing`**: A lightweight PHP/Laravel practice focused on pure business logic, database transactions, and unit testing (Pest/PHPUnit).
+📌 *More experimental builds coming soon!*
 
-*Thanks for stopping by! Let's keep learning and building! ✨*
+*Thanks for stopping by!𐙚 ̊*
