@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm actively learning and exploring web development and modern web technologies. 
 
 ### About Me
-- **Learning Journey**: Strengthening core principles of software engineering, backend logic, and clean architecture.
+- **Learning Journey**: Strengthening core principles of software engineering.
 ---
 
 ### 🖳 Tech Stack & Tools
